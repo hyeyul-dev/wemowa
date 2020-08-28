@@ -11,7 +11,7 @@ Rimowa의 캐리어 제품소개와 커스터마이징, 그리고 장바구니 �
 <br>
 
 ## 데모영상
- [![vibe-demo](image/wemowa.png)](https://www.youtube.com/watch?v=a3mt9oeqr9Q&feature=youtu.be)
+ [![vibe-demo](image/demo.png)](https://www.youtube.com/watch?v=a3mt9oeqr9Q&feature=youtu.be)
  
 
 <br>
